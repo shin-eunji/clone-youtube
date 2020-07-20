@@ -35,3 +35,10 @@ vanilla JS로 Youtube 제작하기
 - [x] 2020-07-14 : ExpressJS, Middleware, MVC pattern, Pug
 - [x] 2020-07-15 : MongoDB
 - [ ]
+
+## 해결하지 못한 문제. stackoverflow
+
+> [git commit Large files detected](https://stackoverflow.com/questions/62949593/git-commit-large-files-detected)
+
+- 해결 방법 .lfs largefile 되지 않아 git 연결을 끊고 다시 remote repo하여 해결하였지만 git 충돌은 아닌 것 같습니다.
+- lfs 방식을 알게되었습니다.
