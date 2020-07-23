@@ -100,7 +100,7 @@ dist
 .fusebox/
 package-lock.json
 uploads
-static
+static 
 
 # DynamoDB Local files
 .dynamodb/
