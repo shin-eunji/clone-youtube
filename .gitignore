@@ -103,6 +103,8 @@ uploads/
 Video/
 uploads/videos/
 models/
+uploads
+static 
 
 # DynamoDB Local files
 .dynamodb/
